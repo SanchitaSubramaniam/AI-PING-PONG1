@@ -1,0 +1,36 @@
+body
+{
+ background-size: cover;
+ text-align: center;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3 {
+    display: inline;
+    float: top;
+}
+
+.play {
+    font-size: 22px;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+button {
+    border-radius: 20px;
+    border: 1px dotted black;
+}
+
+h4
+{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
